@@ -1,9 +1,9 @@
 token = 'your_bot_token_here'
-guild_id = 0 # ID Сервера
+guild_id = 1113208423274782721 # ID Сервера
 
-category_id = 0 # ID Категории в котором находятся private_control_id и create_private_chan_id
-private_control_id = 0 # Текстовый канал для отпавки панели управления приватной комнаты
-create_private_chan_id = 0 # Голосовой канал для создания приватной комнаты
+category_id = 1234445590901817364 # ID Категории в котором находятся private_control_id и create_private_chan_id
+private_control_id = 1234447166622142486 # Текстовый канал для отпавки панели управления приватной комнаты
+create_private_chan_id = 1234564386765406252 # Голосовой канал для создания приватной комнаты
 message_id = 0 # ДЛЯ ВТОРОГО ЗАПУСКА БОТА!
 
 emoji1 = '<:vip:1180438222082420818>' # передать владельца
